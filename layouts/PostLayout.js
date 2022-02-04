@@ -26,7 +26,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       {cover && (
         <div className="absolute bottom-0 w-full h-44 blur-2xl bg-white/50 dark:bg-gray-900/70" />
       )}
-      <div class={cover && 'absolute bottom-0 pb-4 pl-4 w-full'}>
+      <div className={cover && 'absolute bottom-0 pb-4 pl-4 w-full'}>
         <PageTitle>{title}</PageTitle>
         <ul className="text-black dark:text-white">
           <li className="float-right mr-8">
