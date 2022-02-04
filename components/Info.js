@@ -11,7 +11,7 @@ export default function Info({ info, cover }) {
     ''
   )
   return (
-    <table className="border-separate rounded border-4 border-primary-900 w-2/5 float-right m-4">
+    <table className="border-separate rounded border-4 border-primary-900 w-2/5 md:w-full sm:w-full md:float-none sm:float-none float-right m-4">
       <thead>
         <tr>
           <th

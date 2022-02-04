@@ -16,7 +16,13 @@ export default function Youtube({ id, title = '', image = 'hqdefault' }) {
       <div className="flex justify-center relative mt-0 ">
         <div className="flex relative">
           <img
-            className="cursor-pointer border-8 border-primary-900 w-[496px] h-[376px] mt-0"
+            className="cursor-pointer border-8 border-primary-900 aspect-video mt-0 
+            w-[225px] h-[126.56px] 
+            sm:w-[360px] sm:h-[202.50px] 
+            md:w-[533.33px] md:h-[300px] 
+            lg:w-[640px] lg:h-[360px] 
+            xl:w-[768px] xl:h-[432px] 
+            2xl:w-[1024px] 2xl:h-[576px]"
             src={`https://img.youtube.com/vi/${id}/${image}.jpg`}
           />
           <div target="_blank" rel="noopener noreferrer" className="absolute px-[224px] py-[200px]">

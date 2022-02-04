@@ -29,7 +29,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <div className={cover && 'absolute bottom-0 pb-4 pl-4 w-full'}>
         <PageTitle>{title}</PageTitle>
         <ul className="text-black dark:text-white">
-          <li className="float-right mr-8">
+          <li className="float-right md:float-none sm:float-none mr-8">
             Escrito por{' '}
             <ul>
               {authorDetails.map((author) => (
