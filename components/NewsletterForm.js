@@ -47,7 +47,7 @@ const NewsletterForm = ({ title = 'Receba as novidades por email' }) => {
             className="px-4 rounded-md w-72 dark:bg-black focus:outline-none focus:ring-2 focus:border-transparent focus:ring-primary-600"
             id="email-input"
             name="email"
-            placeholder={subscribed ? "Você está inscrito!  🎉" : 'Insira seu email'}
+            placeholder={subscribed ? 'Você está inscrito!  🎉' : 'Insira seu email'}
             ref={inputEl}
             required
             type="email"

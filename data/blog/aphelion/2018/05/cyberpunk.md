@@ -37,9 +37,9 @@ Outra coisa que pode se observar nesse gênero é o fato de não ter um protagon
 
 - Cenários urbanos e distópico: Cyberpunk grita por "tecnologia" por através de seus plug's!
 
-- Maquinas, robôs e equipamentos super high-Tech: no futuro os hacker vão ter muito para lucrar (*risos*).
+- Maquinas, robôs e equipamentos super high-Tech: no futuro os hacker vão ter muito para lucrar (_risos_).
 
-- Clima "dark": as situações são comumente escuro, pessimista, sujo e degradado pelo avanço tecnológico (poluição *cof cof*).
+- Clima "dark": as situações são comumente escuro, pessimista, sujo e degradado pelo avanço tecnológico (poluição _cof cof_).
 
 - Neons com cores vibrantes: na parte rica da cidade tem a presença de prédios monumentais, na parte pobre, as antigas cidades que são assoladas pela criminalidade.
 

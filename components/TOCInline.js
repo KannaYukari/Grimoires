@@ -38,7 +38,7 @@ const TOCInline = ({
   )
 
   const tocList = (
-    <ul className='bg-slate-100 rounded-xl w-2/5'>
+    <ul className="bg-slate-100 rounded-xl w-2/5">
       {filteredToc.map((heading) => (
         <li key={heading.value} className={`${heading.depth >= indentDepth && 'ml-6'}`}>
           <a href={heading.url}>{heading.value}</a>

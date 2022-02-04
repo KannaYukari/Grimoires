@@ -14,7 +14,7 @@ source: 'https://web.archive.org/web/20211004032050/https://aminoapps.com/c/grim
 
 ## Introdução
 
-O estilo Steampunk, ou também conhecido como "Tecnovapor", como alguns puderam perceber pelo nome ("Steam" significa vapor em inglês), é um estilo que - com uma descrição meio pobre - se baseia 
+O estilo Steampunk, ou também conhecido como "Tecnovapor", como alguns puderam perceber pelo nome ("Steam" significa vapor em inglês), é um estilo que - com uma descrição meio pobre - se baseia
 bastante em um cenário em que a tecnologia evoluiu bastante no passado, apenas com a invenção da energia movido a vapor e possui vários equipamentos e acessórios cheios de engrenagens.
 
 <TOCInline toc={props.toc} exclude='Introdução' toHeading={2} />
@@ -29,14 +29,14 @@ As suas obras geralmente são ambientado no passado (mais comumente na Era Vitor
 
 ## Características
 
-- Tecnologia baseado principalmente na energia a vapor.  
-- Uso notório da ótica (lentes), de mecânica avançada, hidráulica, da pólvora e de formas primitivas de eletricidade.  
-- Equipamentos compostos basicamente de bronze, couro, cobre, madeira, correntes, cordas e pano.  
-- Nível tecnológico elevado (robôs, máquinas voadoras, pedaços de corpo humano totalmente mecânicos (como braços), instrumentos óticos avançados, armas de fogo poderosas, etc.).  
-- Aspecto geralmente (não é uma regra) segue um estilo vitoriano, com chapéus, ternos, roupas de couro, espartilhos, meia-calça, panos pesados, suspensórios, bengalas, óculos de aviador, luvas, dentre outros. Mas eventualmente também existem elementos anacrônicos.  
-  
-"Mas espera, Kanna, o que significa esse tal de elemento anacrônico?"  
-  
+- Tecnologia baseado principalmente na energia a vapor.
+- Uso notório da ótica (lentes), de mecânica avançada, hidráulica, da pólvora e de formas primitivas de eletricidade.
+- Equipamentos compostos basicamente de bronze, couro, cobre, madeira, correntes, cordas e pano.
+- Nível tecnológico elevado (robôs, máquinas voadoras, pedaços de corpo humano totalmente mecânicos (como braços), instrumentos óticos avançados, armas de fogo poderosas, etc.).
+- Aspecto geralmente (não é uma regra) segue um estilo vitoriano, com chapéus, ternos, roupas de couro, espartilhos, meia-calça, panos pesados, suspensórios, bengalas, óculos de aviador, luvas, dentre outros. Mas eventualmente também existem elementos anacrônicos.
+
+"Mas espera, Kanna, o que significa esse tal de elemento anacrônico?"
+
 Anacrônico basicamente significa algo que está fora da sua época de moda ("an" = negativo, oposto; "crônico" = tempo, período), em palavras mais simples, o estilo steampunk também pode apresentar elementos fora do estilo vitoriano e assim "quebrando" um pouco do aspecto datado.
 
 ## Conclusão
@@ -46,6 +46,7 @@ Como podemos ver, embora seja um sub-gênero de um estilo, o Steampunk é uma li
 Espero que este blog possa acrescentar na sua bagagem de conhecimento e que eventualmente possa se apropriar de sua cultura para criar artes incriveis, e antes de me despedir, caso tenha algo a acrescentar sobre o tema do blog ou se tiver alguma duvida sobre ele, não excite em comentar pois irei ler com muito carinho. ^~^
 
 ## Referências
+
 [^ref]
 
 https://www.deviantart.com/drawingnightmare/art/Steampunk-concerthall-95978550

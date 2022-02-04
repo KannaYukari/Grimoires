@@ -15,11 +15,8 @@ export default function AuthorLayout({ children, frontMatter }) {
             Sobre
           </h1>
         </div>
-        <h2 className="pt-3 pb-3 text-2xl font-extrabold">
-          Staff
-        </h2>
+        <h2 className="pt-3 pb-3 text-2xl font-extrabold">Staff</h2>
         <div className="items-start mb-5 space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
-          
           <div className="flex flex-col items-center pt-8 space-x-2">
             <Image
               src={avatar}
@@ -41,7 +38,7 @@ export default function AuthorLayout({ children, frontMatter }) {
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">{children}</div>
         </div>
         <MDXLayoutRenderer
-          layout='raw.js'
+          layout="raw.js"
           mdxSource={frontMatter.projectDetails.mdxSource}
           frontMatter={frontMatter}
         />

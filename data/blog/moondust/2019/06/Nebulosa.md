@@ -15,21 +15,18 @@ Me recuso, <br />
 Com toda a minha convicção, <br />
 Que faça o re-uso <br />
 De toda a armação.
-<br /> 
-
+<br />
 
 Me debruço, <br />
 Sobre minha vida, <br />
 Onde já faço <br />
 Minha despedida.<br />
-<br /> 
-
+<br />
 
 Me afogo <br />
 Em minha alma <br />
 Que pega fogo.<br />
-<br /> 
-
+<br />
 
 Me desfaço, <br />
 E me perco <br />

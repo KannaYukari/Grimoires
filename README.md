@@ -18,11 +18,12 @@ Para entrar em contato para mandar sugestões ou avisar/reportar sobre erros ou 
 - [ ] Book layout
 - [ ] "game" layout
 
-## Design System 
+## Design System
 
 O site vai seguir a segiunte estrurura
 
-### Building blocks 
+### Building blocks
+
 #### Color Palletes
 
 #### Typographic

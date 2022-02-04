@@ -4,7 +4,7 @@ import Link from 'next/link'
 const CustomLink = ({ href, ...rest }) => {
   const isInternalLink = href && href.startsWith('/')
   const isAnchorLink = href && href.startsWith('#')
-  const Class = 'text-primary-500 hover:text-primary-600 dark:hover:text-primary-400';
+  const Class = 'text-primary-500 hover:text-primary-600 dark:hover:text-primary-400'
 
   if (isInternalLink) {
     return (

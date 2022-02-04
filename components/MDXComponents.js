@@ -19,13 +19,27 @@ export const MDXComponents = {
   TOCInline,
   a: CustomLink,
   pre: Pre,
-  h1: function({children}){return(<Text tag='h1'>{children}</Text>)},
-  h2: function({children}){return(<Text tag='h2'>{children}</Text>)},
-  h3: function({children}){return(<Text tag='h3'>{children}</Text>)},
-  h4: function({children}){return(<Text tag='h4'>{children}</Text>)},
-  h5: function({children}){return(<Text tag='h5'>{children}</Text>)},
-  h6: function({children}){return(<Text tag='h6'>{children}</Text>)},
-  p: function({children}){return(<Text tag='p'>{children}</Text>)},
+  h1: function ({ children }) {
+    return <Text tag="h1">{children}</Text>
+  },
+  h2: function ({ children }) {
+    return <Text tag="h2">{children}</Text>
+  },
+  h3: function ({ children }) {
+    return <Text tag="h3">{children}</Text>
+  },
+  h4: function ({ children }) {
+    return <Text tag="h4">{children}</Text>
+  },
+  h5: function ({ children }) {
+    return <Text tag="h5">{children}</Text>
+  },
+  h6: function ({ children }) {
+    return <Text tag="h6">{children}</Text>
+  },
+  p: function ({ children }) {
+    return <Text tag="p">{children}</Text>
+  },
   BlogNewsletterForm: BlogNewsletterForm,
   wrapper: ({ components, layout, ...rest }) => {
     const Layout = require(`../layouts/${layout}`).default

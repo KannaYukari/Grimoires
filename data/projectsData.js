@@ -1,7 +1,7 @@
 const projectsData = [
   // {
   //   title: 'Aphelion',
-  //   description: `Aphelion é o nome dado quando o astro está no ponto mais 
+  //   description: `Aphelion é o nome dado quando o astro está no ponto mais
   //   distante na orbita da sua estrela principal. Quando nos distanciamos,
   //   podemos compreender a situação de forma mais completa e profunda.`,
   //   imgSrc: '/static/images/google.png',

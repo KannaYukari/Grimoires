@@ -61,9 +61,9 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                       <time dateTime={date}>{formatDate(date)}</time>
                     </dd>
                     <dt className="sr-only">Tempo de leitura de</dt>
-                      <dd className="text-base font-medium leading-6 text-gray-700 dark:text-gray-200">
-                        <TimeToRead {...readingTime} />
-                      </dd>
+                    <dd className="text-base font-medium leading-6 text-gray-700 dark:text-gray-200">
+                      <TimeToRead {...readingTime} />
+                    </dd>
                   </dl>
                   <div className="space-y-3 xl:col-span-3">
                     <div>

@@ -5,20 +5,19 @@ const ThemeSwitch = () => {
   const [mounted, setMounted] = useState(false)
   const { theme, setTheme, resolvedTheme } = useTheme()
 
- 
   // When mounted on client, now we can show the UI
   useEffect(() => setMounted(true), [])
   return (
-    <button 
+    <button
       aria-label="Toggle Dark Mode"
       type="button"
       className="relative w-12 h-6 rounded-full p-1 ml-1 mr-1 justify-between rounded inline-flex bg-gray-100 dark:bg-gray-700 sm:ml-4"
       onClick={() => setTheme(theme === 'dark' || resolvedTheme === 'dark' ? 'light' : 'dark')}
     >
-      <svg 
-        mlns="http://www.w3.org/2000/svg" 
-        viewBox="0 0 20 20" 
-        fill="currentColor" 
+      <svg
+        mlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 20 20"
+        fill="currentColor"
         className="text-gray-900 dark:text-gray-100"
       >
         <path
@@ -27,15 +26,18 @@ const ThemeSwitch = () => {
           clipRule="evenodd"
         />
       </svg>
-      <svg 
-        mlns="http://www.w3.org/2000/svg" 
-        viewBox="0 0 20 20" 
-        fill="currentColor" 
+      <svg
+        mlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 20 20"
+        fill="currentColor"
         className="text-gray-900 dark:text-gray-100"
       >
         <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z" />
       </svg>
-      <div className='absolute w-4 h-4 rounded-full bg-black dark:bg-white ml-6 dark:ml-0' style={{transition: 'margin 0.2s linear'}} />
+      <div
+        className="absolute w-4 h-4 rounded-full bg-black dark:bg-white ml-6 dark:ml-0"
+        style={{ transition: 'margin 0.2s linear' }}
+      />
     </button>
   )
 }
