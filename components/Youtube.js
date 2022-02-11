@@ -35,7 +35,8 @@ export default function Youtube({ id, title = '', image = 'hqdefault' }) {
           lg:px-[320px] lg:py-[180px] 
           xl:px-[384px] xl:py-[216px] 
           2xl:px-[512px] 2xl:py-[288px]
-          ">
+          "
+          >
             <Icon kind="youtube" href={`https://youtu.be/${id}`} size="12" />
           </div>
           <a
