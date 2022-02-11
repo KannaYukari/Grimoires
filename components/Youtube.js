@@ -25,7 +25,10 @@ export default function Youtube({ id, title = '', image = 'hqdefault' }) {
             2xl:w-[1024px] 2xl:h-[576px]"
             src={`https://img.youtube.com/vi/${id}/${image}.jpg`}
           />
-          <div target="_blank" rel="noopener noreferrer" className="absolute 
+          <div
+            target="_blank"
+            rel="noopener·noreferrer"
+            className="absolute 
           px-[95px] py-[50px]
           sm:px-[130px] sm:py-[101.25x] 
           md:px-[266.66px] md:py-[150px] 
